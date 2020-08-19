@@ -1,0 +1,152 @@
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csprojAssemblyReference.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.AssemblyInfoInputs.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.AssemblyInfo.cs
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csproj.CoreCompileInputs.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.exe
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.deps.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.runtimeconfig.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.runtimeconfig.dev.json
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.pdb
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.RazorTargetAssemblyInfo.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csproj.CopyComplete
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoForest.StaticWebAssets.Manifest.cache
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoForest.StaticWebAssets.xml
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.dll
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.pdb
+C:\Users\Ogarian Metal\Desktop\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.genruntimeconfig.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.exe
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.deps.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.runtimeconfig.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.runtimeconfig.dev.json
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\ProjetoForest.pdb
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csprojAssemblyReference.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.AssemblyInfoInputs.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.AssemblyInfo.cs
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csproj.CoreCompileInputs.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.RazorTargetAssemblyInfo.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.csproj.CopyComplete
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoForest.StaticWebAssets.Manifest.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoForest.StaticWebAssets.xml
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.pdb
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.genruntimeconfig.cache
