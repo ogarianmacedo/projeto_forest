@@ -1,18 +1,25 @@
+using System;
+using System.IO;
 using System.Text;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using ProjetoForest.Helpers;
+using ProjetoForest.Interfaces;
 using ProjetoForest.Models;
+using ProjetoForest.Repositories;
 
 namespace ProjetoForest
 {
@@ -34,6 +41,30 @@ namespace ProjetoForest
             services.AddDbContext<Contexto>(
                 x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection"))
             );
+
+            // Registre o gerador Swagger, definindo 1 ou mais documentos Swagger
+            services.AddSwaggerGen(c =>
+            {
+                // Para fins de documentação
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "ToDo API",
+                    Description = "A simple example ASP.NET Core Web API",
+                    TermsOfService = new Uri("https://example.com/terms"),
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Shayne Boyer",
+                        Email = string.Empty,
+                        Url = new Uri("https://twitter.com/spboyer"),
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Use under LICX",
+                        Url = new Uri("https://example.com/license"),
+                    }
+                });
+            });
 
             // Configuração para usar o Identity
             // options.Password configura a criação da senha
@@ -72,12 +103,24 @@ namespace ProjetoForest
 
             // Configuração para solicitar autorização nas rotas
             var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
-            services.AddMvc(options => {
+            services.AddMvc(options =>
+            {
                 options.Filters.Add(new AuthorizeFilter(policy));
             });
 
+            // Configuração para evitar erro de "possível ciclo de objeto que não é compatíve"
+            services.AddControllers().AddNewtonsoftJson(options =>
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+            );
+
+            // Implementação de Interfaces e Repositories
+            services.AddScoped<IUsuario, UsuarioRepository>();
+
             // Mapper para Models e DTOs
             services.AddAutoMapper(typeof(MapperProfiles));
+
+            // Configuração de permissão Cors
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -88,6 +131,17 @@ namespace ProjetoForest
                 app.UseDeveloperExceptionPage();
             }
 
+            // Habilite o middleware para servir o Swagger gerado como um terminal JSON.
+            app.UseSwagger();
+
+            // Habilitar middleware para servir swagger-ui (HTML, JS, CSS, etc.),
+            // especificando o terminal JSON Swagger.
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+                c.RoutePrefix = string.Empty;
+            });
+
             // Comentado para usar apenas o localhost:5000
             // app.UseHttpsRedirection();
 
@@ -96,6 +150,21 @@ namespace ProjetoForest
             // Configuração para autenticação e autorização
             app.UseAuthentication();
             app.UseAuthorization();
+
+            // Permissões do Cors
+            app.UseCors(
+                x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()
+            );
+
+            // Configuração de caminho para arquivos ou imagens
+            app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(Directory.GetCurrentDirectory(), @"Resources")
+                ),
+                RequestPath = new PathString("/Resources")
+            });
 
             app.UseEndpoints(endpoints =>
             {

@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace ProjetoForest.DTO
@@ -13,6 +14,6 @@ namespace ProjetoForest.DTO
         [Required(ErrorMessage="Campo {0} obrigatório!")]
         public string Password { get; set; }
 
-        public string[] Roles { get; set; }
+        public RoleDTO[] Roles { get; set; }
     }
 }

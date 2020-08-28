@@ -35,9 +35,9 @@ namespace ProjetoForest.Controllers
             _mapper = mapper;
         }
 
-        [HttpPost("create")]
+        [HttpPost("cadastrar")]
         [AllowAnonymous]
-        public async Task<IActionResult> Create(UserDTO userDTO)
+        public async Task<IActionResult> Cadastrar(UserDTO userDTO)
         {
             try
             {
@@ -46,7 +46,12 @@ namespace ProjetoForest.Controllers
 
                 if (userDTO.Roles.Length > 0)
                 {
-                    await _userManager.AddToRolesAsync(user, userDTO.Roles);
+                    IEnumerable<string> items;
+                    foreach (RoleDTO role in userDTO.Roles) 
+                    {
+                        items = new string[]{new string(role.Name)};
+                        await _userManager.AddToRolesAsync(user, items);
+                    }
                 }
 
                 if (result.Succeeded)
@@ -78,7 +83,8 @@ namespace ProjetoForest.Controllers
 
                     return Ok(new
                     {
-                        token = token
+                        token  = token,
+                        type = "Bearer",
                     });
                 }
 
@@ -88,7 +94,6 @@ namespace ProjetoForest.Controllers
             {
                 return this.StatusCode(500, $"Deu ruim! {ex.Message}");
             }
-
         }
 
         private async Task<string> GenerateToken(User user)

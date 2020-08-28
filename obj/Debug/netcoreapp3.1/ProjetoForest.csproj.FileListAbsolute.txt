@@ -150,3 +150,11 @@ C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\D
 C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.dll
 C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.pdb
 C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.genruntimeconfig.cache
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ogarian Metal\Desktop\OGARIAN\PROJETOS EM ANDAMENTO\ProjetoForest\obj\Debug\netcoreapp3.1\ProjetoForest.MvcApplicationPartsAssemblyInfo.cs
