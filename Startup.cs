@@ -42,28 +42,59 @@ namespace ProjetoForest
                 x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection"))
             );
 
-            // Registre o gerador Swagger, definindo 1 ou mais documentos Swagger
+            // Registra o gerador Swagger, definindo 1 ou mais documentos Swagger
             services.AddSwaggerGen(c =>
             {
                 // Para fins de documentação
-                c.SwaggerDoc("v1", new OpenApiInfo
-                {
-                    Version = "v1",
-                    Title = "ToDo API",
-                    Description = "A simple example ASP.NET Core Web API",
-                    TermsOfService = new Uri("https://example.com/terms"),
-                    Contact = new OpenApiContact
+                c.SwaggerDoc(
+                    "v1",
+                    new OpenApiInfo
                     {
-                        Name = "Shayne Boyer",
-                        Email = string.Empty,
-                        Url = new Uri("https://twitter.com/spboyer"),
-                    },
-                    License = new OpenApiLicense
-                    {
-                        Name = "Use under LICX",
-                        Url = new Uri("https://example.com/license"),
+                        Version = "v1",
+                        Title = "ToDo API",
+                        Description = "A simple example ASP.NET Core Web API",
+                        TermsOfService = new Uri("https://example.com/terms"),
+                        Contact = new OpenApiContact
+                        {
+                            Name = "Shayne Boyer",
+                            Email = string.Empty,
+                            Url = new Uri("https://twitter.com/spboyer"),
+                        },
+                        License = new OpenApiLicense
+                        {
+                            Name = "Use under LICX",
+                            Url = new Uri("https://example.com/license"),
+                        }
                     }
-                });
+                );
+
+                c.AddSecurityDefinition(
+                    "Bearer",
+                    new OpenApiSecurityScheme
+                    {
+                        In = ParameterLocation.Header,
+                        Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 12345abcdef\"",
+                        Name = "Authorization",
+                        Type = SecuritySchemeType.ApiKey
+                    }
+                );
+
+                c.AddSecurityRequirement(
+                    new OpenApiSecurityRequirement 
+                    {
+                        {
+                            new OpenApiSecurityScheme
+                            {
+                                Reference = new OpenApiReference
+                                {
+                                    Type = ReferenceType.SecurityScheme,
+                                    Id = "Bearer"
+                                }
+                            },
+                            new string[] { }
+                        }
+                    }
+                );
             });
 
             // Configuração para usar o Identity

@@ -1,7 +1,7 @@
 # ProjetoForest - WebAPI com Asp.net Core 3.1
 
 ### Executar
-0- dotnet restore
+0- dotnet restore \
 1- dotnet add package Microsoft.AspNetCore.Authentication \
 2- dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer \
 3- dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 3.1.5 \
