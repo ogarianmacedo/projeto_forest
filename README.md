@@ -1,4 +1,4 @@
-# ProjetoForest - WebAPI com Asp.net Core 3.1
+# ProjetoForest - WebAPI com Asp.net Core 3.1 e Autenticação JWT
 
 ### Executar
 0- dotnet restore \
