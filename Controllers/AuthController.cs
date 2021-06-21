@@ -24,11 +24,12 @@ namespace ProjetoForest.Controllers
         private readonly SignInManager<User> _signInManager;
         private readonly IMapper _mapper;
 
-        public AuthController(IConfiguration config,
-                              UserManager<User> userManager,
-                              SignInManager<User> signInManager,
-                              IMapper mapper)
-        {
+        public AuthController(
+            IConfiguration config,
+            UserManager<User> userManager,
+            SignInManager<User> signInManager,
+            IMapper mapper
+        ) {
             _config = config;
             _userManager = userManager;
             _signInManager = signInManager;

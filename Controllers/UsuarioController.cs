@@ -37,6 +37,5 @@ namespace ProjetoForest.Controllers
                 return this.StatusCode(500, $"Erro ao recuperar dados! {ex.Message}");
             }
         }
-
     }
 }
